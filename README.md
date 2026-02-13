@@ -63,6 +63,31 @@ Infrastructure:
 
 ---
 
+## Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Students
+![Students](screenshots/students.png)
+
+### Transactions
+![Transactions](screenshots/transactions.png)
+
+### Scheduling
+![Scheduling](screenshots/schedule.png)
+
+### Administration
+![Administration](screenshots/admin.png)
+
+### Billing
+![Billing](screenshots/billing.png)
+
+---
+
 ## Note
 The source code is private because the system is actively used by an organization.  
 This repository documents the features and architecture of the application.
