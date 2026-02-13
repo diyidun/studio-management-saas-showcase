@@ -72,13 +72,13 @@ Infrastructure:
 ![Dashboard](dashboard.png)
 
 ### Students
-![Students](students.png)
+![Students](student.png)
 
 ### Transactions
 ![Transactions](transactions.png)
 
 ### Scheduling
-![Scheduling](schedule.png)
+![Scheduling](scheduling.png)
 
 ### Administration
 ![Administration](admin.png)
