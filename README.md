@@ -8,6 +8,15 @@ The platform is used operationally by staff across different locations.
 Live Demo:
 https://studio-management-sys-production.up.railway.app
 
+## Live Demo
+
+This is a production-style SaaS platform.  
+For security reasons, public credentials are not exposed.
+
+If you would like to explore the system, please contact me and I will provide a temporary demo account.
+
+Email: yidundevelopwa@gmail.com
+
 
 ---
 
