@@ -66,25 +66,25 @@ Infrastructure:
 ## Screenshots
 
 ### Login
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Students
-![Students](screenshots/students.png)
+![Students](students.png)
 
 ### Transactions
-![Transactions](screenshots/transactions.png)
+![Transactions](transactions.png)
 
 ### Scheduling
-![Scheduling](screenshots/schedule.png)
+![Scheduling](schedule.png)
 
 ### Administration
-![Administration](screenshots/admin.png)
+![Administration](admin.png)
 
 ### Billing
-![Billing](screenshots/billing.png)
+![Billing](billing.png)
 
 ---
 
